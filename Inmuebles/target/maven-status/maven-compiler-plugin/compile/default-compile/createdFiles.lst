@@ -1,0 +1,16 @@
+com\mycompany\Inmuebles\Oficina.class
+com\mycompany\Inmuebles\Apartamento.class
+com\mycompany\Inmuebles\PruebaInmuebles.class
+com\mycompany\Inmuebles\ApartamentoFamiliar.class
+com\mycompany\Inmuebles\Local.class
+com\mycompany\Inmuebles\Apartaestudio.class
+com\mycompany\Inmuebles\CasaConjuntoCerrado.class
+com\mycompany\Inmuebles\Local$tipo.class
+com\mycompany\Inmuebles\Inmueble.class
+com\mycompany\Inmuebles\tipo.class
+com\mycompany\Inmuebles\CasaIndependiente.class
+com\mycompany\Inmuebles\Casa.class
+com\mycompany\Inmuebles\LocalComercial.class
+com\mycompany\Inmuebles\InmuebleVivienda.class
+com\mycompany\Inmuebles\CasaUrbana.class
+com\mycompany\Inmuebles\CasaRural.class
